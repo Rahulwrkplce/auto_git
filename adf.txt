@@ -1,1 +1,2 @@
 line 1 from local master
+line 2 from local master
